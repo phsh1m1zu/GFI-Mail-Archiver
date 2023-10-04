@@ -1,0 +1,1 @@
+$ Usage: python3 gfipwn.py -u http://[host]/Archiver/ -f filetoupload -p pathonwebserver
